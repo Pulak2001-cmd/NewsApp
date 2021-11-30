@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Michael Vaughan dropped from BBC's Ashes commentary over allegations of racist comments at Yorkshire",
+            "description": "Michael Vaughan strongly denies making racist comments to a number of Asian players in 2009, and says he is \"looking forward\" to joining Fox Cricket's commentary team for this summer's Ashes series.",
+            "url": "http://www.abc.net.au/news/2021-11-25/michael-vaughan-dumped-bbc-ashes-commentary-yorkshire-racism/100649194",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/adb7f439c92dd458352f459efda0b7aa?impolicy=wcms_crop_resize&cropH=1089&cropW=1946&xPos=942&yPos=111&width=862&height=485",
+            "publishedAt": "2021-11-25T00:39:23Z",
+            "content": "Former England captain Michael Vaughan will play no part in the BBC's coverage of the upcoming Ashes series after being accused of making racist comments to former Yorkshire player Azeem Rafiq.\r\n<ul>… [+2517 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Craig Taylor",
+            "title": "Proteas to continue taking the knee against Netherlands, India",
+            "description": "Cricket South Africa has confirmed that the Proteas will continue to take the knee before matches during the upcoming home summer season.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/proteas-to-continue-taking-the-knee-against-netherlands-india-20211124",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1213/aab4c47f373744a0b07c6a4ce5c67e8f.jpg",
+            "publishedAt": "2021-11-24T20:58:48+00:00",
+            "content": "Cricket South Africa has confirmed that the Proteas will continue to take the knee before matches during the upcoming home summer season.\r\nThe Proteas taking the knee was a nationally emotive issue a… [+1616 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
